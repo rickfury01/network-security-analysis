@@ -1,0 +1,7 @@
+.venv
+combined_dataset.csv
+.idea
+sample_set.csv
+random_forest_model.pkl
+random_forest_testrun.pdf
+random_forest_testrun.html
